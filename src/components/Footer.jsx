@@ -29,8 +29,8 @@ export default function Footer() {
                 />
               </div>
               <span className="text-lg sm:text-xl font-bold">
-                <span className="text-white">Code</span>
-                <span className="text-blue-400">Flow</span>
+                <span className="text-white">PA</span>
+                <span className="text-blue-400">AI</span>
               </span>
             </div>
             <p className="text-gray-400 mb-4 sm:mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base">
@@ -94,7 +94,7 @@ export default function Footer() {
         <div className="pt-6 sm:pt-8 border-t-0 sm:border-t border-slate-800">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-3 sm:space-y-0">
             <p className="text-gray-400 text-xs sm:text-sm">
-              © 2025 CodeFlow. All rights reserved.
+              © 2025 PAAI. All rights reserved.
             </p>
             <div className="flex items-center space-x-4 sm:space-x-6 text-xs sm:text-sm">
               <a
