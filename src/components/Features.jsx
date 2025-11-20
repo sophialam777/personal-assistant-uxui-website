@@ -9,7 +9,7 @@ const features = [
         Contextual calendar management: The AI automatically finds the best time for meetings, handles time zone conflicts, and sends professional invites for you.
       </strong>
     ),
-    imageUrl: "src/images/schedule.png", 
+    imageUrl: "https://cdn.prod.website-files.com/61120cb2509e012d40f0b214/674759730e5501475ff6b172_67475718556b3c0a4dceef89_What%2520is%2520Smart%2520Scheduling_.png", 
     imagePosition: "left",
   },
   
@@ -24,7 +24,6 @@ const features = [
     title: "Proactive Task Automation",
     description:
         "The ultimate digital organizer. Automatically create to-do lists from emails, set location-based reminders, and orchestrate complex tasks across your connected apps.",
-    // Replaced codeSnippet with imageUrl
     imageUrl: "src/images/todo.png",
     imagePosition: "left",
   },
