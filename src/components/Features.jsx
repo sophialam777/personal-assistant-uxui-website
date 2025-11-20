@@ -17,14 +17,14 @@ const features = [
     title: "Communication Triage",
     description:
         "Effortless Inbox & Messaging: AI summarizes long email threads, prioritizes urgent contacts, drafts quick, on-brand replies, and handles follow-ups.",
-    imageUrl: "/src/images/emailsum.jpg",
+    imageUrl: "https://cdn.prod.website-files.com/66d1d32f08a233fad81d614e/678a274ce437e44846785862_magical-summarizing-tool.webp",
     imagePosition: "right",
   },
   {
     title: "Proactive Task Automation",
     description:
         "The ultimate digital organizer. Automatically create to-do lists from emails, set location-based reminders, and orchestrate complex tasks across your connected apps.",
-    imageUrl: "src/images/todo.png",
+    imageUrl: "https://us1.discourse-cdn.com/openai1/original/2X/5/5be9c3dc0a0461b21183070ee185de4eb1d7a540.jpeg",
     imagePosition: "left",
   },
 ];

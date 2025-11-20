@@ -17,7 +17,7 @@ export default function Navbar({ scrolled }) {
           <div className="flex items-center space-x-1 group cursor-pointer">
             <div>
               <img
-                src="src/images/aipa.png"
+                src="../src/images/aipa.png"
                 alt="AIPA Logo"
                 className="w-6 h-6 sm:w-8 sm:h-8"
               />
